@@ -1,0 +1,17 @@
+{
+  "entries": [
+    "index.js",
+    "components/button/button.js",
+    "components/form/form.js",
+    "components/input/input.js",
+    "components/text-field/text-field.js",
+    "components/timer/timer.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "4.0.3",
+    "typescriptVersion": "5.0.4"
+  },
+  "collections": [],
+  "bundles": []
+}
